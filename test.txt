@@ -4,4 +4,4 @@ thanks
 testbranch 가 수정
 fist
 second
-github에서 수정
+로컬 저장소에서 수정
